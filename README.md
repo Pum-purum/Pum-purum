@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Pum-purum
 - 👀 I’m interested in PHP (Symfony) and Go
-- 🌱 I’m currently learning Goalng and extended PostgreSQL tricks
+- 🌱 I’m currently learning Golang and extended PostgreSQL tricks
 - 💞️ I’m looking to collaborate on my own pet-project
+- Have you already seen my own Telegram bot? Let's do it! https://t.me/qweasleybot
